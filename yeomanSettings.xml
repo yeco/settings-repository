@@ -1,0 +1,6 @@
+<application>
+  <component name="YeomanSettings">
+    <option name="yoPackagePath" value="/usr/local/bin/yo" />
+    <option name="nodeExePath" value="/usr/local/bin/node" />
+  </component>
+</application>

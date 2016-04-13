@@ -1,0 +1,5 @@
+<application>
+  <component name="MeteorSettings">
+    <option name="executablePath" value="/usr/local/bin/meteor" />
+  </component>
+</application>

@@ -1,0 +1,16 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views />
+    <general />
+    <debuggers>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+          <stepping-filters>
+            <stepping-filter enabled="false" url-pattern="cometchat_receive.php" />
+          </stepping-filters>
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+</application>
